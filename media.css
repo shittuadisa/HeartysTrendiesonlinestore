@@ -1,0 +1,65 @@
+@media screen and (max-width:767) {
+    body {
+        font-family:  sans-serif;
+    }
+    header {
+        width: 5vw;
+        padding: 5px;
+        position: fixed;
+        margin-top: 0px;
+        display: flex;
+        align-items: center;
+    }
+        
+    nav ul li {
+        display: block;
+        margin-right: 0px;
+        margin-left: 0px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 50px;
+    /* position: fixed; */
+  }
+  nav ul li {
+    display: block;
+    margin-right: 10px;
+    margin-left: 0px;
+   
+  }
+  nav ul li {
+    display: block;
+    margin-right: 40px;
+    margin-left: 0px;
+   
+  }
+  .Home{
+    background-color: blue;
+}
+  .pro-each{
+    width: 22vw; 
+     height: 50vh;}
+}
+
+@media screen and (max-width:480){
+
+    header {
+        width: 5vw;
+        padding: 3px;
+        position: fixed;
+        margin-top: 0px;
+        display: flex;
+        align-items: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin-right: 10px;
+        margin-left: 0px;
+       
+      }
+
+
+
+}
